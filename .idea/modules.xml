@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RobinBT.iml" filepath="$PROJECT_DIR$/RobinBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robin-support-common-tools/robin-support-common-tools.iml" filepath="$PROJECT_DIR$/robin-support-common-tools/robin-support-common-tools.iml" />
+    </modules>
+  </component>
+</project>
